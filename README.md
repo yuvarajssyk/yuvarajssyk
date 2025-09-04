@@ -29,12 +29,7 @@ Certified **Python Developer** | Java Developer | Full-Stack Fresher
 
 ---
 
-### 💻 Workspace Spec  
-<img height="30" src="https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>  
-<img height="30" src="https://img.shields.io/badge/Intel-Core_i5-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>  
-<img height="30" src="https://img.shields.io/badge/RAM-8GB-ff0000?style=for-the-badge"/>  
 
----
 
 ![Yuvaraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuvarajssyk&theme=dark&show_icons=true&hide=issues,contribs)  
 
